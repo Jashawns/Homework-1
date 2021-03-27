@@ -2,19 +2,7 @@
 
 ## Description
 
-This is a timed coding quiz with 10 multiple-choice questions. The app runs in the browser and will feature dynamically updated HTML and CSS powered by JavaScriptons. As the questions are answered the 60 second timer will subtract 10 seconds for each wrong answer while continuing to countdown. 
-
-## Deployed Link
-
-https://jashawns.github.io/codeReactor/
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+Updates made to webpage for accessibilty where all links now work. Additionally semantic elements were made to HTML to make it more understandable. Duplicates were deleted from CSS and grouping created where applicable. Language was set to engligh and minimization leaves website in tact. 
 
 ## Acceptance Criteria
 
@@ -30,3 +18,14 @@ THEN they fall in sequential order
 WHEN I view the title element
 THEN I find a concise, descriptive title
 
+## Deployed Link
+
+https://jashawns.github.io/codeReactor/
+
+## User Story
+
+```
+AS A marketing agency
+I WANT a codebase that follows accessibility standards
+SO THAT our own site is optimized for search engines
+```
