@@ -61,6 +61,13 @@ ul {
 /* setting font size for paragraph tag only located within main parent */
 p {
     font-size: 16px;
+
+}
+
+p:hover, a:hover{
+    font-size: 30px;
+    background-color: #00b809;
+    
 }
 
 /* HERO DIV WITH BACKGROUND IMAGE in header*/

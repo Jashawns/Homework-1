@@ -2,7 +2,7 @@
 
 ## Description
 
-Updates made to webpage for accessibilty where all links now work. Additionally semantic elements were made to HTML to make it more understandable. Duplicates were deleted from CSS and grouping created where applicable. Language was set to engligh and minimization leaves website in tact. 
+Updates made to webpage for accessibilty where all links now work. Additionally semantic elements were made to HTML to make it more understandable. Duplicates were deleted from CSS and grouping created where applicable. Language was set to engligh and minimization leaves website in tact. Additionally when hovering on certain text it highlights green and increases the font size.  
 
 ## Acceptance Criteria
 
